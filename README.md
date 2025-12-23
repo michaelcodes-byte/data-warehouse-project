@@ -21,16 +21,15 @@ This project showcases:
 Below diagrams visualize the core pipeline and schema:
 
 ### 📊 Data Architecture Diagram  
-*(Insert your **architecture.png** here)*
 
-![Data Architecture](docs/architecture.png)
+
+![Data Architecture](C:\Users\Michael\OneDrive\Documents\data engineer\data_architecture.png)
 
 ### 🔄 ETL Pipeline Flow  
-*(Insert your **etl_flow.png** here)*
 
-![ETL Flow](docs/etl_flow.png)
+![ETL Flow](C:\Users\Michael\OneDrive\Documents\data engineer\data_flow_diagram.png)
 
-> *Tip:* Place your PNG files inside a `docs/` folder so they render nicely.
+
 
 ---
 
@@ -49,4 +48,9 @@ This project uses:
 ## 📁 Repository Structure
 
 
-
+├── datasets/ ← raw source files
+├── docs/ ← diagrams & documentation
+├── scripts/ ← ETL scripts
+├── tests/ ← unit or integration tests
+├── README.md ← this file
+├── LICENSE ← MIT License
